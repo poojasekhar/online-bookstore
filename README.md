@@ -1,1 +1,3 @@
 # online-bookstore
+
+BookStoreASE is an application for selling books. The project is aimed at providing a platform that allows a customer to purchase a book online based on the book’s title, author, and subject. Its functionalities include login, showing a book list, purchasing a book, registering as a new user, searching for books, adding delivery information, showing previous orders and payment options. It provides the user with a catalog of different books available for purchase in the store, categorized under the various departments. Through the application, a customer can purchase a book, add it to their shopping cart, and finally purchase it.
